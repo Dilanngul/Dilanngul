@@ -1,7 +1,7 @@
 # 💫 About Me:
--🌱 Şu anda öğreniyorum 😂
--🔬I am currently working in Web Development.<br>
--🌱I'm trying to learn React Native
+-- 🌱 I’m currently learning 😂<br>
+--🔬I am currently working in Web Development.<br>
+--🌱I'm trying to learn React Native
 
 
 
