@@ -16,7 +16,7 @@
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![html-css](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![kotlin](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![html-css](https://img.shields.io/badge/html-css-%23E34F26.svg?style=for-the-badge&logo=html-css&logoColor=white) ![kotlin](https://img.shields.io/badge/kotlin-%2320232a.svg?style=for-the-badge&logo=kotlint&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/Java-%2320232a.svg?style=for-the-badge&logo=Java&logoColor=%2361DAFB)
 
 
 # 📊 GitHub Stats:
