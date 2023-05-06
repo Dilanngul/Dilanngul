@@ -3,7 +3,7 @@
 
 -- 🌱 I’m currently learning everything 🤣<br>
 --🔬I am currently working in Web Development.<br>
---⚡👨‍💻 i am currently learning kotlin and java<br>
+--⚡👨‍💻 i am currently learning Kotlin and Java<br>
 --🥅 2023 Goals: Develop at least one mobile app<br>
 
 
@@ -13,7 +13,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Dilanngul) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/Dilanngul) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
-[![twitter Badge](https://img.shields.io/badge/-twitter-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)]([link](https://twitter.com/Dilannngul))
+[![twitter Badge](https://img.shields.io/badge/-twitter-FF9800?style=flat-quare&labelColor=FF9800&logo=twitter&logoColor=white&link=link)]([link](https://twitter.com/Dilannngul))
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![html](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)![CSS](https://img.shields.io/badge/CSS-%23E34F26.svg?style=for-the-badge&logo=CSS&logoColor=white) ![kotlin](https://img.shields.io/badge/kotlin-%2320232a.svg?style=for-the-badge&logo=kotlint&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/Java-%2320232a.svg?style=for-the-badge&logo=Java&logoColor=%2361DAFB)
