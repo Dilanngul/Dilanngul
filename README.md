@@ -1,10 +1,10 @@
 # 💫 About Me:
 
 
--- 🌱 I’m currently learning everything 🤣
+-- 🌱 I’m currently learning everything 🤣<br>
 --🔬I am currently working in Web Development.<br>
---⚡👨‍💻 i am currently learning kotlin and java
---🥅 2022 Goals: Develop at least one mobile app
+--⚡👨‍💻 i am currently learning kotlin and java<br>
+--🥅 2022 Goals: Develop at least one mobile app<br>
 
 
 
