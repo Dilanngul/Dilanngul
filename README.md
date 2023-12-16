@@ -1,9 +1,8 @@
 # 💫 About Me:
 
 
--- 🌱 I’m currently learning everything 🤣<br>
---🔬I am currently working in Web Development.<br>
---⚡👨‍💻 i am currently learning Kotlin <br>
+-- 🌱 I am writing Android Application with Kotlin<br>
+--⚡👩🏻‍💻 i am currently learning Kotlin <br>
 
 
 
