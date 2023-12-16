@@ -3,8 +3,8 @@
 
 -- 🌱 I’m currently learning everything 🤣<br>
 --🔬I am currently working in Web Development.<br>
---⚡👨‍💻 i am currently learning Kotlin and Java<br>
---🥅 2023 Goals: Develop at least one mobile app<br>
+--⚡👨‍💻 i am currently learning Kotlin <br>
+
 
 
 
