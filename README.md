@@ -1,7 +1,6 @@
 # 💫 About Me:
 
 
--- 🌱 I am writing Android Application with Kotlin<br>
 --⚡👩🏻‍💻 i am currently learning Kotlin <br>
 
 
