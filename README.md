@@ -14,7 +14,7 @@
 [![twitter Badge](https://img.shields.io/badge/-twitter-FF9800?style=flat-quare&labelColor=FF9800&logo=twitter&logoColor=white&link=link)]([link](https://twitter.com/Dilannngul))
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![html](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)![CSS](https://img.shields.io/badge/CSS-%23E34F26.svg?style=for-the-badge&logo=CSS&logoColor=white) ![kotlin](https://img.shields.io/badge/kotlin-%2320232a.svg?style=for-the-badge&logo=kotlint&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/Java-%2320232a.svg?style=for-the-badge&logo=Java&logoColor=%2361DAFB)
+![html](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)![CSS](https://img.shields.io/badge/CSS-%23E34F26.svg?style=for-the-badge&logo=CSS&logoColor=white) ![kotlin](https://img.shields.io/badge/kotlin-%2320232a.svg?style=for-the-badge&logo=kotlint&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/Java-%2320232a.svg?style=for-the-badge&logo=Java&logoColor=%2361DAFB)
 
 
 # 📊 GitHub Stats:
